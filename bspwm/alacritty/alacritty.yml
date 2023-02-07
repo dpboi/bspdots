@@ -1,0 +1,39 @@
+## Import files (Colors, Fonts, Etc)
+import:
+  - ~/.config/bspwm/alacritty/colors.yml
+  - ~/.config/bspwm/alacritty/fonts.yml
+
+## Set environment variables
+env:
+  TERM: alacritty
+
+## Terminal window settings
+window:
+  opacity: 0.7
+
+  dimensions:
+    columns: 82
+    lines: 25
+
+  padding:
+    x: 40
+    y: 40
+  dynamic_padding: true
+
+  decorations: full
+  startup_mode: Windowed
+  dynamic_title: true
+
+## scrolling
+  history: 10000
+  multiplier: 3
+
+## Cursor
+cursor:
+  style:
+    shape: Beam
+    blinking: On
+  unfocused_hollow: false
+
+## Live config reload
+live_config_reload: true

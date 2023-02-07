@@ -1,0 +1,5 @@
+#!/bin/sh
+
+[ "$1" = "up" ] && brillo -A 5 && brillo -O
+[ "$1" = "down" ] && brillo -U 5 && brillo -O
+[ "$1" = "set" ] && brillo -S 5 && brillo -O

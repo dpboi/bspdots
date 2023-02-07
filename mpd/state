@@ -1,0 +1,120 @@
+sw_volume: 82
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 27
+time: 119.967000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:E ve/Smile/01. Eve - Doublet.flac
+1:E ve/Smile/02. Eve - Leo.flac
+2:E ve/Smile/03. Eve - Raison Detre.flac
+3:E ve/Smile/04. Eve - Kara No Kioku.flac
+4:E ve/Smile/05. Eve - Inochi No Tabekata.flac
+5:E ve/Smile/06. Eve - Yamiyo.flac
+6:E ve/Smile/07. Eve - Asa Ga Furu.flac
+7:E ve/Smile/08. Eve - Kokoroyohou.flac
+8:E ve/Smile/09. Eve - Hakugin.flac
+9:E ve/Smile/10. Eve - Baumkuchen End.flac
+10:E ve/Smile/11. Eve - Mellow.flac
+11:E ve/Smile/12. Eve - Ognanje.flac
+12:E ve/Smile/13. Eve - Uron Na Shokutaku.flac
+13:E ve/Singles/Aisai/01. Eve - Aisai.flac
+14:E ve/Singles/Avant/01. Eve - Avant.flac
+15:E ve/Singles/Bubble/01. Eve - Bubble (feat. Uta).flac
+16:E ve/Singles/FightSong/01. Eve - FightSong.flac
+17:E ve/Singles/Kaikai Kitan/01. Eve - Kaikai Kitan.flac
+18:E ve/Singles/Shinkai/01. Eve - Shinkai.flac
+19:E ve/Singles/Shirayuki/01. Eve - Shirayuki.flac
+20:E ve/Singles/Yuseiboushi/01. Eve - Yuseiboushi.flac
+21:E ve/Round Robin/01. Eve - Namaemo shiranai anatani koi wo shita.flac
+22:E ve/Round Robin/02. Eve - Round Robin.flac
+23:E ve/Round Robin/03. Eve - Miginimagirl.flac
+24:E ve/Round Robin/04. Eve - Fukanzen na shogu (album ver).flac
+25:E ve/Round Robin/05. Eve - Hantaishasen.flac
+26:E ve/Round Robin/06. Eve - Fallin My World.flac
+27:E ve/Round Robin/07. Eve - Meru factory.flac
+28:E ve/Round Robin/08. Eve - Shinjuku sick.flac
+29:E ve/Round Robin/09. Eve - Ikanaide (album ver).flac
+30:E ve/Round Robin/10. Eve - Goodbye day.flac
+31:E ve/Wonder Word/01. Eve - Yoru no yume.flac
+32:E ve/Wonder Word/02. Eve - Arukari seizin.flac
+33:E ve/Wonder Word/03. Eve - Senkouhanabi.flac
+34:E ve/Wonder Word/04. Eve - Heroumerou.flac
+35:E ve/Wonder Word/05. Eve - Shinkirou.flac
+36:E ve/Wonder Word/06. Eve - Mataashita.flac
+37:E ve/Wonder Word/07. Eve - Yoru wo koero.flac
+38:E ve/Otogi/01. Eve - Slumber.flac
+39:E ve/Otogi/02. Eve - Tokyo Ghetto.flac
+40:E ve/Otogi/03. Eve - Outsider.flac
+41:E ve/Otogi/04. Eve - Mayoigo.flac
+42:E ve/Otogi/05. Eve - Yadorigi.flac
+43:E ve/Otogi/06. Eve - Ambivalent.flac
+44:E ve/Otogi/07. Eve - Kaede.flac
+45:E ve/Otogi/08. Eve - Last Dance.flac
+46:E ve/Otogi/09. Eve - Bokuramadaunderground.flac
+47:E ve/Otogi/10. Eve - Kiminisekai.flac
+48:E ve/Otogi/11. Eve - Dawn.flac
+49:E ve/Official Number/01. Eve - Doshiyomonaikuraini kimigasuki.flac
+50:E ve/Official Number/02. Eve - Caravan.flac
+51:E ve/Official Number/03. Eve - Wakusei loop.flac
+52:E ve/Official Number/04. Eve - Demon dance tokyo.flac
+53:E ve/Official Number/05. Eve - Fuyukan.flac
+54:E ve/Official Number/06. Eve - Short umbrella.flac
+55:E ve/Official Number/07. Eve - Rabbit gray.flac
+56:E ve/Official Number/08. Eve - Perfect seimei.flac
+57:E ve/Official Number/09. Eve - Meru factory (Re arrange ver).flac
+58:E ve/Official Number/10. Eve - sister (Re arrange ver).flac
+59:E ve/Kaizin/01. Eve - Kaizin.flac
+60:E ve/Kaizin/02. Eve - Kaikai Kitan.flac
+61:E ve/Kaizin/03. Eve - Yoruwahonoka.flac
+62:E ve/Kaizin/04. Eve - Yuseiboushi.flac
+63:E ve/Kaizin/05. Eve - Bouto.flac
+64:E ve/Kaizin/06. Eve - Heikousen.flac
+65:E ve/Kaizin/07. Eve - Yoku.flac
+66:E ve/Kaizin/08. Eve - Ao No Waltz.flac
+67:E ve/Kaizin/09. Eve - Shinkai.flac
+68:E ve/Kaizin/10. Eve - Gunjo Sanka.flac
+69:E ve/Kaizin/11. Eve - Kotonoha.flac
+70:E ve/Kaizin/12. Eve - Aisai.flac
+71:E ve/Kaizin/13. Eve - Taikutsuwo Saienshinaide.flac
+72:E ve/Kaizin/14. Eve - Avant.flac
+73:E ve/Kaikai Kitan  Ao No Waltz/01. Eve - Kaikai Kitan.flac
+74:E ve/Kaikai Kitan  Ao No Waltz/02. Eve - Ao No Waltz.flac
+75:E ve/Kaikai Kitan  Ao No Waltz/03. Eve - Shinkai.flac
+76:E ve/Kaikai Kitan  Ao No Waltz/04. Eve - Yoino Myojo.flac
+77:E ve/Kaikai Kitan  Ao No Waltz/05. Eve - Yuyu Meimei.flac
+78:E ve/Kaikai Kitan  Ao No Waltz/06. Eve - Yakusoku.flac
+79:E ve/Kaikai Kitan  Ao No Waltz/07. Eve - Byouka.flac
+80:E ve/E ve Vocaloid/01. Eve - Sister.flac
+81:E ve/E ve Vocaloid/02. Eve - Nansensubungaku.flac
+82:E ve/E ve Vocaloid/03. Eve - Anoko Secret.flac
+83:E ve/E ve Vocaloid/04. Eve - Dramaturgy.flac
+84:E ve/E ve Vocaloid/05. Eve - Okinimesumama.flac
+85:E ve/E ve Vocaloid/06. Eve - Outsider.flac
+86:E ve/E ve Vocaloid/07. Eve - Tokyo Ghetto.flac
+87:E ve/E ve Vocaloid/08. Eve - Last Dance.flac
+88:E ve/E ve Vocaloid/09. Eve - Bokuramadaunderground.flac
+89:E ve/E ve Vocaloid/10. Eve - Yadorigi.flac
+90:E ve/E ve Vocaloid/11. Eve - Kokoroyohou.flac
+91:E ve/E ve Vocaloid/12. Eve - Gunjo Sanka.flac
+92:E ve/Bunka/01. Eve - fanfare (instrumental).flac
+93:E ve/Bunka/02. Eve - Nonsense Bungaku.flac
+94:E ve/Bunka/03. Eve - Dramaturgy.flac
+95:E ve/Bunka/04. Eve - Homesick.flac
+96:E ve/Bunka/05. Eve - Anoko secret.flac
+97:E ve/Bunka/06. Eve - Kaishingeki.flac
+98:E ve/Bunka/07. Eve - Furiwoshita.flac
+99:E ve/Bunka/08. Eve - Hitsuji wo kazoete.flac
+100:E ve/Bunka/09. Eve - Okinimesumama.flac
+101:E ve/Bunka/10. Eve - paradigm (instrumental).flac
+102:E ve/Gunjo Sanka Yuseiboushi/04. Eve - Inochino Tabekata (DanceMix Ver.).flac
+103:E ve/Gunjo Sanka Yuseiboushi/05. Eve - Dramaturgy (Live Film Ver.).flac
+104:E ve/Singles/How To Eat Life(.remix).mp3
+playlist_end

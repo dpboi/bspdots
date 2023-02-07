@@ -1,0 +1,45 @@
+#!/bin/bash
+
+## Copyright (C) 2020-2022 Aditya Shakya <adi1090x@gmail.com>
+## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+
+## Script To Manage Speaker Volume For Archcraft.
+
+# Get Volume
+get_volume() {
+	volume=`pamixer --get-volume`
+	echo "$volume"
+}
+
+# Increase Volume
+inc_volume() {
+	pamixer -i 5
+}
+
+# Decrease Volume
+dec_volume() {
+	pamixer -d 5
+}
+
+# Toggle Mute
+toggle_mute() {
+	amixer get Master | grep '\[on\]' &>/dev/null
+	if [[ "$?" == 0 ]]; then
+		amixer set Master toggle && dunstify -u low --replace=69 -i "Mute"
+	else
+		amixer set Master toggle && dunstify -u low --replace=69 -i "Unmute"
+	fi
+}
+
+# Execute accordingly
+if [[ "$1" == "--get" ]]; then
+	get_volume
+elif [[ "$1" == "--inc" ]]; then
+	inc_volume
+elif [[ "$1" == "--dec" ]]; then
+	dec_volume
+elif [[ "$1" == "--toggle" ]]; then
+	toggle_mute
+else
+	get_volume
+fi

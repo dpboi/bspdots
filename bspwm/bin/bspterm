@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+## launch alacritty with bspwm config
+
+CONFIG="$HOME/.config/bspwm/alacritty/alacritty.yml"
+
+if [ "$1" == "-e" ]; then
+	alacritty --config-file "$CONFIG" -e ${@:2}
+elif [ "$1" == "" ]; then
+	alacritty --config-file "$CONFIG"
+else
+	alacritty --config-file "$CONFIG" ${@:1}
+fi
